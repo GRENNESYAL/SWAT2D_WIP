@@ -923,3 +923,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-07.59.45:617][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2021.09.02-07.59.46:601][238]LogSlate: Window 'Delete Assets' being destroyed
 [2021.09.02-07.59.46:659][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.02-08.06.42:731][624]AssetReimport: New page: Outstanding source content changes 12:06:42
+[2021.09.02-08.06.42:733][624]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/HUD/Crossair.png)
+[2021.09.02-08.06.42:881][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Crossair" FILE="C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/HUD/Crossair.uasset" SILENT=true
+[2021.09.02-08.06.42:882][624]LogSavePackage: Moving 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Saved/CrossairCAB23D5D48056EB7733DC1A4516F7507.tmp' to 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/HUD/Crossair.uasset'
+[2021.09.02-08.06.42:991][625]AssetCheck: New page: Asset Save: Crossair
+[2021.09.02-08.06.42:991][625]LogContentValidation: Display: Validating Texture2D /Game/HUD/Crossair.Crossair
+[2021.09.02-08.06.45:950][955]AssetReimport: Importing new asset /Game/HUD/Crossair.
+[2021.09.02-08.06.50:866][532]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/HUD/Crossair.Crossair
+[2021.09.02-08.06.50:900][532]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.09.02-08.06.58:116][343]LogTexture: Display: Building textures: Crossair (BGRA8, 64X64)
+[2021.09.02-08.07.04:041][ 14]LogSlate: Window 'Crossair' being destroyed
+[2021.09.02-08.07.04:046][ 14]LogSlate: Window 'Crossair' being destroyed
+[2021.09.02-08.07.04:903][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev_Level/Dev_Level" FILE="C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/Dev_Level/Dev_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-08.07.04:959][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.09.02-08.07.05:031][108]LogSavePackage: Moving 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Saved/Dev_Level4F26309E43A83777DA44338964EB3B8C.tmp' to 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/Dev_Level/Dev_Level.umap'
+[2021.09.02-08.07.05:041][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev_Level/Dev_Level_BuiltData" FILE="C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/Dev_Level/Dev_Level_BuiltData.uasset" SILENT=true
+[2021.09.02-08.07.05:042][108]LogSavePackage: Moving 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Saved/Dev_Level_BuiltDataFE6B375C4A662D7395A5589C5DCF9B3F.tmp' to 'C:/Users/theol/Desktop/SWAT2D_WIP/UnrealProject/Content/Dev_Level/Dev_Level_BuiltData.uasset'
+[2021.09.02-08.07.05:055][108]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-08.07.05:055][108]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Dev_Level/Dev_Level_BuiltData.Dev_Level_BuiltData
+[2021.09.02-08.07.05:055][108]LogContentValidation: Display: Validating World /Game/Dev_Level/Dev_Level.Dev_Level
